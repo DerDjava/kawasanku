@@ -1,11 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="Indonesia1", TRANS TV
+#EXTINF:-1 tvg-logo="https://flyclipart.com/on-twitter-come-and-pay-tribute-to-brazzers-and-their-brazzers-png-577079" group-title="Settingan", TRANS TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="Indonesia1", TRANS7 
+#EXTINF:-1 tvg-logo="https://flyclipart.com/on-twitter-come-and-pay-tribute-to-brazzers-and-their-brazzers-png-577079" group-title="MotoGP", TRANS7 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w464718372_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="Indonesia1", Bonus Kumenagis Indosiar
+#EXTINF:-1 tvg-logo="https://flyclipart.com/on-twitter-come-and-pay-tribute-to-brazzers-and-their-brazzers-png-577079" group-title="Azab", Bonus Kumenagis Indosiar
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
